@@ -26,4 +26,14 @@ In this lesson, learn how to use objects and libraries.
 * Long strings of NeoPixels
 * Learn to create random numbers
 
+## L04_04_pixelFill
+
+  * Create a function to emulate pixel.fill()
+  
+## L04_05_sorting
+  * Implement bubble sort
+  * Implement quick sort (optional)
+  * Visualize using neoPixel tower
+
 #### Created Brian Rashap, 07-DEC-2022
+##### Updated Brian Rashap, 02-FEB-2023, added Assigments L04_04 and L04_05
